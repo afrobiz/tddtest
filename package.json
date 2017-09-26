@@ -1,0 +1,22 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "tdd",
+    "javascript"
+  ],
+  "author": "zion",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
